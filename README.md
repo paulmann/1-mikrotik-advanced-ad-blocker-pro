@@ -1,7 +1,7 @@
 # MikroTik Advanced AD Blocker Pro
 
 **Version:** 5.0.0  
-**Author:** Mikhail Deynekin ([Deynekin.RU](https://deynekin.com))  
+**Author:** Mikhail Deynekin ([Deynekin.COM](https://deynekin.com))  
 **License:** MIT  
 **Repository:** [github.com/paulmann/1-mikrotik-advanced-ad-blocker-pro](https://github.com/paulmann/1-mikrotik-advanced-ad-blocker-pro)
 
